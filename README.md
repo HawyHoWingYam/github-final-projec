@@ -5,7 +5,9 @@ To run this jupyter notebook, python>=3.9, torch, torchvision, pandas are needed
 <h2>Hyper Parameters</h2>
 
 <code>epoch, lr = 100, 0.01</code>
+
 <code>optimizer = torch.optim.Adam(net.Parameters(), lr=lr, weight_decay=0)</code>
+
 <code>loss = nn.MSELoss()</code>
 
 <h2>Regression</h2>
