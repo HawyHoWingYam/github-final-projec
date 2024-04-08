@@ -10,11 +10,11 @@ This is the regression model structure:
 
 Loss after 100 training eopchs of regression model:
 
-![Regression Loss](./pic/regression_loss.png "Regression Loss")
+![Regression Loss](../pic/regression_loss.png "Regression Loss")
 
 Validation Loss:
 
-![Regression Valid](./pic/reg_valid.png "Regression Valid")
+![Regression Valid](../pic/reg_valid.png "Regression Valid")
 
 <h2>Multi-layers Preceptron</h2>
 
@@ -24,8 +24,8 @@ This is the Mutli-layers Preceptron structure:
 
 Loss after 100 training epochs of MLP models:
 
-![MLP Loss](./pic/MLP_loss.png "MLP Loss")
+![MLP Loss](../pic/MLP_loss.png "MLP Loss")
 
 Validation Loss:
 
-![MLP Valid](./pic/MLP_valid.png "MLP Valid")
+![MLP Valid](../pic/MLP_valid.png "MLP Valid")
